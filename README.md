@@ -40,12 +40,11 @@ What is an Enhancement? [Read more...](WHAT_IS_AN_ENHANCEMENT.md)
 
 This is critical for systems spanning:
 
-* Ontology Data Flow
+* Ontology
+* Data Flow
 * Data Agent
 * Sandbox
-* Distributed pipelines and execution
-* DSL / query engine
-* Multi-module dependencies
+* VEGA
 
 ---
 

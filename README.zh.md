@@ -41,12 +41,11 @@ KEP = **增强提案 + 设计文档**
 
 适用于涵盖以下模块的系统：
 
-* Ontology Data Flow
+* Ontology
+* Data Flow
 * Data Agent
 * Sandbox
-* 分布式流水线与执行
-* DSL / 查询引擎
-* 多模块依赖
+* VEGA
 
 ---
 

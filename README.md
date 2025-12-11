@@ -1,5 +1,7 @@
 # 📄 KWeaver Design Docs (KEP-Style)
 
+English | [中文](./README.zh.md)
+
 ## 📌 Background
 
 KWeaver is growing across complex subsystems—Ontology Data Flow, Data Agent, Sandbox, distributed execution, and more. To keep architecture consistent, enable effective collaboration, and maintain traceable decisions for every major change, we follow a structured design doc process.
@@ -21,6 +23,7 @@ Originally from the Kubernetes community, used to manage:
 * Community discussion and reviews
 
 It is a proven governance pattern for long-running, multi-contributor projects.
+What is an Enhancement? [Read more...](WHAT_IS_AN_ENHANCEMENT.md)
 
 ---
 

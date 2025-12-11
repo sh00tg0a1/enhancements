@@ -1,5 +1,7 @@
 # 📄 KWeaver 设计文档（KEP 风格）
 
+中文 | [English](./README.md)
+
 ## 📌 背景
 
 KWeaver 正在扩展到多个复杂子系统——Ontology Data Flow、Data Agent、Sandbox、分布式执行等。为保持架构一致、促进协作、让重大决策可追溯，我们采用结构化的设计文档流程。
@@ -21,6 +23,8 @@ KEP = **增强提案 + 设计文档**
 * 社区讨论与审阅
 
 这是长期演化、多贡献者项目的成熟治理模式。
+
+符合什么特征才是提案? [点击这里](./WHAT_IS_AN_ENHANCEMENT.zh.md)
 
 ---
 
